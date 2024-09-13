@@ -1,1 +1,1 @@
-# Datafied_Capstone_Project
+# Project Report: Customer Churn Analysis for a Canadian Bank
