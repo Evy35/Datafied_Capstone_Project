@@ -1,4 +1,5 @@
 # **Project Report: Customer Churn Analysis for a Canadian Bank**
+[Power BI](https://app.powerbi.com/groups/me/reports/44ed629c-17a3-4bda-8e96-213c7efbfc86/1b7a1bd757726060b930?experience=power-bi&clientSideAuth=0)
 ## **EDA**
 ### 1. Customer Demographics Overview
    **Gender Distribution:**
@@ -46,8 +47,8 @@ Customers with credit cards have a lower churn rate than those without.
 The bar chart reveals that inactive members have a significantly higher churn rate compared to active members.
 - **Key Insight:** The bank should focus on reactivating inactive members through personalized offers or engagement programs.
 
-### 4. Customer Financials & Churn
-**Churn vs. Estimated Salary:**
-
-The scatter plot shows that customers with lower salaries (below $50K) are more likely to churn.
-Key Insight: Offering financial advisory services or affordable products to lower-income customers could help improve retention.
+## **Recommendations**
+### 1. Target High-Churn Demographics
+### 2. Focus on Customers with Low Credit Scores and Balances
+### 3. Improve Engagement for Inactive Members
+### 4. Create targeted Retention Campaigns for customers in high churn countries most especially Germany.
